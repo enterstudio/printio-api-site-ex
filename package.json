@@ -20,7 +20,7 @@
     "express": "~3.4.8",
     "request": "~2.33.0",
     "async": "~0.2.9",
-    "ejs": "~0.8.5"
+    "ejs": "~3.1.7"
   },
   "devDependencies": {
     "mocha": "~1.17.0",
